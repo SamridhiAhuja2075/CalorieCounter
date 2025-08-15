@@ -46,5 +46,3 @@ Calories: 60 kcal per 100g
 * 🍎 Macro & micronutrient breakdown
 * 📦 Bigger dataset with exotic fruits & vegetables
 
- 3 seconds. That would make your repo stand out instantly.
-Do you want me to make that next?
